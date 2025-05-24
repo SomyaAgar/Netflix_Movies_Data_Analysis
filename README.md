@@ -13,15 +13,15 @@ Source: Netflix movies data (Kaggle)
 #### Column	Description
                                    
 ##### Data columns (total 9 columns)
-Release_Date     : Date at which movie was released 
-Title            : Title of the Movie        
-Overview         : Short description abount movie  
-Popularity       : total reviews of the movie
-Vote_Count       : number of people voted for the movie
-Vote_Average     : average voting on the movie   
-Original_Language: the original language in which movie was released  
-Genre            : Genre of movie (Action, Thriller, Suspense, etc)  
-Poster_Url       : Url of the movie poster  
+Release_Date      : Date at which movie was released 
+Title             : Title of the Movie        
+Overview          : Short description abount movie  
+Popularity        : total reviews of the movie
+Vote_Count        : number of people voted for the movie
+Vote_Average      : average voting on the movie   
+Original_Language : the original language in which movie was released  
+Genre             : Genre of movie (Action, Thriller, Suspense, etc)  
+Poster_Url        : Url of the movie poster  
 
 ## Data Preprocessing & Feature Engineering
 ### Initial Exploration: 
